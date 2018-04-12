@@ -52,7 +52,7 @@ class house
 		value += (car_ports * 1000);
 		value += (windows * 200);
 		value += (doors * 1000);
-		cout<<" value of house is " << value << "dollars"<< endl;
+		cout<<" value of house is " << value<< " " << "dollars" <<endl;
 		}
 
 		
